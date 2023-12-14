@@ -8,3 +8,8 @@
 * praktikum 8: Pengenalan Variabel 'praktikum-a8.py'
 * praktikum 7: Pengenalan Variabel 'praktikum-a7.py'
 * praktikum 6: Pengenalan Variabel 'praktikum-a6.py'
+* praktikum 6: Pengenalan Variabel 'praktikum-a5.py'
+* praktikum 6: Pengenalan Variabel 'praktikum-a4.py'
+* praktikum 6: Pengenalan Variabel 'praktikum-a3.py'
+* praktikum 6: Pengenalan Variabel 'praktikum-a2.py'
+* praktikum 6: Pengenalan Variabel 'praktikum-a1.py'
